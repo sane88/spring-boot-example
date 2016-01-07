@@ -1,4 +1,4 @@
-package org.vr.config.model;
+package org.vr.model;
 
 
 public class Greeting {
